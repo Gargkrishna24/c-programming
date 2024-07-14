@@ -1,0 +1,9 @@
+{
+    "files.associations": {
+        "P1.C": "cpp",
+        "L7.C": "cpp",
+        "FIRST.C": "cpp"
+    },
+    "git.detectSubmodules": false,
+    "git.enabled": true
+}
